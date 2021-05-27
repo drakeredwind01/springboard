@@ -10,7 +10,7 @@ https://drive.google.com/drive/folders/1p9uh2vcxWkbmT0UR9CdetndP-0R7oH_v?usp=sha
 8.4.6     Mini Project 17: Cloud Security Part 1
   https://docs.google.com/document/d/1uhErLulkEi65iKTpDthGUwD2KOjKTOSkxiNOaumHQq8/edit
 8.4.6     Mini Project 17: Cloud Security Part 1 (APA)
-  https://docs.google.com/document/d/1RW2RV4MQOUu2Eh3j4MbQQhho3aBrcz2A_FwNTUBcXeY/edit#heading=h.hcfsn8dd2dw4
+https://docs.google.com/document/d/1RW2RV4MQOUu2Eh3j4MbQQhho3aBrcz2A_FwNTUBcXeY/edit#heading=h.hcfsn8dd2dw4
 8.4.6     Mini Project 17: Cloud Security Part 2 (APA)
   https://docs.google.com/document/d/1phe7jUPWCSOSvGqd2gEzp0sew6XQVGkflgU0VLJIN_Y/edit
 10.1.1     Mini-Project 19: Password Compromise
