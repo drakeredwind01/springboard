@@ -21,3 +21,5 @@ I update the drive constantly but I don't always post the changes on GitHub
 
 2021.08.12.12.19.55.255
 added a file "How to get the most out of the practice exam!" included a PDF version for easier access
+2021.08.24.16.15.55.628
+added file "CTF Challenges" included download link for "Hack the Necromancer VM"
